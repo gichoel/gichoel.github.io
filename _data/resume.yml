@@ -4,7 +4,7 @@
 basics:
   name: "최기철(Gi-Choel, Choi)"
   label: "개발자"
-  picture: "https://via.placeholder.com/240x240"
+  #picture: "assets/img/logo.jpg"
   email: "gichoel0295@gmail.com"
 #  phone: ""
   website: "https://github.com/gichoel"
@@ -48,7 +48,7 @@ volunteer:
     endDate: "2024-10-31"
     summary: "작년에 2023 오픈소스 컨트리뷰션 아카데미의 uftrace팀에 멘티로 참여하며 코드를 분석했던 경험과 지식을 토대로 새로운 멘티 분들에게 uftrace를 이해할 수 있도록 도와주고 해당 프로젝트에 기여할 수 있도록 가이드해주는 활동을 진행했습니다."
 
-#education:
+# education:
 #  - institution: "University of Oklahoma"
 #    area: "Information Technology"
 #    studyType: "Bachelor"
